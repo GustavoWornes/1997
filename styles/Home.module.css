@@ -1,32 +1,21 @@
 .container {
-  padding: 0 2rem;
+
 }
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
+  padding: 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background:url('../public/photo-1661183977745-e71963f46e02.jpg') no-repeat;
+  background-size:cover;
+  height:92vh;
 }
 
-.footer {
-  display: flex;
-  flex: 1;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  justify-content: center;
-  align-items: center;
-}
 
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
-}
 
 .title a {
   color: #0070f3;
@@ -116,10 +105,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .card,
-  .footer {
-    border-color: #222;
-  }
+  .card
   .code {
     background: #111;
   }

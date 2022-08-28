@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #23232e;
+    height: 8vh;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+}
+.navbar li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+.navbar a{
+    color:#fff;
+    text-decoration:none;
+    transition:0.3s;
+
+}
+.navbar a:hover{
+    opacity:0.
+}
+
