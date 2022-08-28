@@ -16,9 +16,7 @@ export default function Home() {
           First project with <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing
-        </p>
+       
 
             
       </main>

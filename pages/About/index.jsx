@@ -21,7 +21,7 @@ export default function About (){
                 </h3>
                 <p>
                     Além da paixão por react e café com gosto duvidoso (ps:Um pouco forte segundo os outros),<br></br>
-                    Ex-corredor de corridas de montanhas,tempo livre faço academia e tiro tempo pra Mimar meu sobrinho "Jp".
+                    Ex-corredor de corridas de montanhas,tempo livre faço academia e resto do tempo tiro pra Mimar meu sobrinho "Jp".
 
                 </p>
             </main>
