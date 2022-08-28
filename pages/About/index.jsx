@@ -12,16 +12,14 @@ export default function About (){
                     Pouco Sobre Mim
                 </h1>
                 <p className={styles.description}>
-                    Sou Gustavo Tenho 25 anos, Natural de guarapuava no Párana, morando em joinville a uns 12 anos,<br></br>
-                    Atualmente fazendo a transição de carreira para a area da tecnologia, Na Busca do tão sonhada primeira oportunidade <br></br> 
-                    Fiz esse blog/site para exercitar o html,css e ainda por cima aprender mais sobre esse novo framework que é o Next.js
+                Me chamo Gustavo, tenho 25 anos, sou natural de Guarapuava - PR, mas moro em Joinville - SC a mais ou menos 12 anos.<br/> Atualmente estou buscando realizar uma transição de carreira para área de tecnología, correndo atrás da tão sonhada e idealizada primeira oportunidade!<br/> 
+Desenvolvi esta página com o objetivo de exercitar meus conhecimentos em HTML, CSS e tudo que aprendi com os cursos realizados ou em andamento e experiências que me desafiaram! Assim como, acompanhar minha evolução nessa caminhada.
                 </p>
-                <h3 className={styles.title}>
+                <h5 className={styles.title}>
                     Mas Vamos pra uma Biografia mais pessoal!
-                </h3>
+                </h5>
                 <p>
-                    Além da paixão por react e café com gosto duvidoso (ps:Um pouco forte segundo os outros),<br></br>
-                    Ex-corredor de corridas de montanhas,tempo livre faço academia e resto do tempo tiro pra Mimar meu sobrinho "Jp".
+                Mas sendo um pouco mais pessoal... Além de apaixonado pela combinação de react e um café,<br/> sou um apaixonado pelas corridas, especialmente de montanhas, <br/>no meu tempo livre gosto de realizar atividades físicas, passar um tempo com a família e ....
 
                 </p>
             </main>
