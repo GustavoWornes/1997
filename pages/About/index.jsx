@@ -14,14 +14,10 @@ export default function About (){
                 <p className={styles.description}>
                 Me chamo Gustavo, tenho 25 anos, sou natural de Guarapuava - PR, mas moro em Joinville - SC a mais ou menos 12 anos.<br/> Atualmente estou buscando realizar uma transição de carreira para área de tecnología, correndo atrás da tão sonhada e idealizada primeira oportunidade!<br/> 
 desenvolvi esta página com o objetivo de exercitar meus conhecimentos em HTML, CSS e tudo que aprendi com os cursos realizados ou em andamento e experiências que me desafiaram! Assim como, acompanhar minha evolução nessa caminhada.
+Mas sendo um pouco mais pessoal... Além de apaixonado pela combinação de react e um café,<br/> sou um apaixonado pelas corridas, especialmente de montanhas, <br/>no meu tempo livre gosto de realizar atividades físicas, passar um tempo com a família.
                 </p>
-                <h5 className={styles.title}>
-                    Mas Vamos pra uma Biografia mais pessoal!
-                </h5>
-                <p>
-                Mas sendo um pouco mais pessoal... Além de apaixonado pela combinação de react e um café,<br/> sou um apaixonado pelas corridas, especialmente de montanhas, <br/>no meu tempo livre gosto de realizar atividades físicas, passar um tempo com a família e ....
-
-                </p>
+                
+       
             </main>
         </div>
     )
