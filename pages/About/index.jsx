@@ -9,7 +9,7 @@ export default function About (){
             </Head>
             <main className={styles.main}>
                 <h1 className={styles.title}>
-                    Pouco Sobre Mim
+                    Um Pouco Sobre Mim
                 </h1>
                 <p className={styles.description}>
                 Me chamo Gustavo, tenho 25 anos, sou natural de Guarapuava - PR, mas moro em Joinville - SC a mais ou menos 12 anos.<br/> Atualmente estou buscando realizar uma transição de carreira para área de tecnología, correndo atrás da tão sonhada e idealizada primeira oportunidade!<br/> 
