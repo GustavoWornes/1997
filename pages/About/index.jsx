@@ -13,7 +13,7 @@ export default function About (){
                 </h1>
                 <p className={styles.description}>
                 Me chamo Gustavo, tenho 25 anos, sou natural de Guarapuava - PR, mas moro em Joinville - SC a mais ou menos 12 anos.<br/> Atualmente estou buscando realizar uma transição de carreira para área de tecnología, correndo atrás da tão sonhada e idealizada primeira oportunidade!<br/> 
-Desenvolvi esta página com o objetivo de exercitar meus conhecimentos em HTML, CSS e tudo que aprendi com os cursos realizados ou em andamento e experiências que me desafiaram! Assim como, acompanhar minha evolução nessa caminhada.
+desenvolvi esta página com o objetivo de exercitar meus conhecimentos em HTML, CSS e tudo que aprendi com os cursos realizados ou em andamento e experiências que me desafiaram! Assim como, acompanhar minha evolução nessa caminhada.
                 </p>
                 <h5 className={styles.title}>
                     Mas Vamos pra uma Biografia mais pessoal!
