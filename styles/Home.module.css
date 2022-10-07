@@ -18,7 +18,7 @@
 
 
 .title a {
-  color: #0070f3;
+  color: #337acc;
   text-decoration: none;
 }
 
@@ -37,6 +37,7 @@
 .title,
 .description {
   text-align: center;
+
 }
 
 .description {
