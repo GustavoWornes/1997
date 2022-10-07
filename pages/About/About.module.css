@@ -1,6 +1,4 @@
-.container{
-   
-}
+
 .main{
     min-height: 100vh;
   padding: 0;
@@ -19,4 +17,8 @@
 .title a:focus,
 .title a:active {
   text-decoration: underline;
+}
+.card{
+  margin-left: 10%;
+  margin-right: 10%;
 }

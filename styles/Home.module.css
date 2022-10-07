@@ -1,6 +1,4 @@
-.container {
 
-}
 
 .main {
   min-height: 100vh;
@@ -10,9 +8,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background:url('../public/photo-1661183977745-e71963f46e02.jpg') no-repeat;
+/*   background:url('../public/photo-1661183977745-e71963f46e02.jpg') no-repeat;
   background-size:cover;
-  opacity: 0.9;
+  opacity: 0.9; */
+  background-color: rgb(241, 237, 241);
   height:92vh;
 }
 
@@ -41,9 +40,9 @@
 }
 
 .description {
-  margin: 4rem 0;
+  font-family:Arial, Helvetica, sans-serif;
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .code {
